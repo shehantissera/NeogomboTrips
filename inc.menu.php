@@ -1,8 +1,8 @@
 <div id="header">
     <div class="container">
         <div class="one-fifth ani" data-gen="fadeInLeft" data-gen-offset="bottom-in-view" style="opacity:0;">
-            <div id="logo"><a href="index.php"><img src="images/logo.png"  alt="logo"></a></div>
-            <div id="tagline" class="font_heading">Business Website Template</div>
+            <div id="logo"><a href="index.php"><img src="images/MEricksonToursLogo.png"  alt="logo"></a></div>
+            <div id="tagline" class="font_heading">Live the life, in Sri Lanka</div>
         </div>
         <div class="four-fifth column-last ani" data-gen="fadeInRight" data-gen-offset="bottom-in-view" style="opacity:0;">
             <div class="top-line">

@@ -656,13 +656,13 @@ hr {
 	margin-top:0px;
 }
 .fixed#header .four-fifth #logo img {
-	height:22px;
+	height:27px;
 }
 .fixed#header .one-fifth #tagline {
 	position:absolute;
 	left:0;
 	top:11px;
-	font-size:7.3px;
+	font-size:10px;
 }
 .fixed#header .top-line {
 	display: none;

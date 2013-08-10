@@ -81,7 +81,7 @@
             <div class="one-half">
                 <!-- Copyright -->
                 <ul class="copyright">
-                    <li>© 2013 PlussOne. All rights reserved. By <a href="#">Okathemes.com</a></li>
+                    <li>© 2013 MErickson Tours & Travels. All rights reserved. By <a href="http://tistus.srilanka-trips.com/">Shehan Tissera</a></li>
                 </ul>
             </div>
             <div class="one-half column-last">

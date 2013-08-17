@@ -90,11 +90,11 @@
                         <li><a href="blog_2.html">Blog Alternative</a></li>
                     </ul>
                 </li>
-                <li> <a href="contact.html">Contact</a>
-                    <ul>
+                <li> <a href="contact.php">Contact</a>
+                    <!--<ul>
                         <li><a href="contact.html">Contact Page Version 1</a></li>
                         <li><a href="contact_2.html">Contact Page Version 2</a></li>
-                    </ul>
+                    </ul>-->
                 </li>
             </ul>
             <!-- Navigation / End -->
@@ -103,7 +103,7 @@
                 <button id="#collapse1" class="nav-toggle"><i class="icon-search"></i></button>
                 <div id="collapse1" style="display:none;">
                     <!-- begin search form -->
-                    <form  action="http://www.okathemes.com/themes/plussone/search.php" method="get">
+                    <form  action="#" method="get">
                         <input id="s" type="text" name="s" placeholder="Search &hellip;" >
                     </form>
                     <!-- end search form -->
